@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verireach"
+version = "0.1.0"
+description = "Symbol-Level Call-Graph Reachability & Automated OpenVEX Generator for PURL and SBOM Ecosystems"
+readme = "README.md"
+authors = [
+    { name = "Abdullah TAY", email = "abdullahtay@gmail.com" }
+]
+license = { text = "Apache-2.0" }
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Security",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Quality Assurance"
+]
+keywords = [
+    "security",
+    "sbom",
+    "vex",
+    "openvex",
+    "cyclonedx",
+    "spdx",
+    "purl",
+    "call-graph",
+    "reachability",
+    "supply-chain-security"
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+verireach = "verireach.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/abdullahtay/verireach"
+Repository = "https://github.com/abdullahtay/verireach.git"
+Issues = "https://github.com/abdullahtay/verireach/issues"

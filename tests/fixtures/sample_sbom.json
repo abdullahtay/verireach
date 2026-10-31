@@ -1,0 +1,58 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:3e671687-395b-41f5-a30f-a58921a69b79",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-31T20:00:00Z",
+    "component": {
+      "type": "application",
+      "name": "example-enterprise-service",
+      "version": "1.0.0"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "fast-crypto",
+      "version": "1.2.0",
+      "purl": "pkg:pypi/fast-crypto@1.2.0",
+      "description": "High performance cryptographic primitives",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jwt-auth-helper",
+      "version": "2.4.1",
+      "purl": "pkg:pypi/jwt-auth-helper@2.4.1",
+      "description": "JWT parsing and verification utilities",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "logging-utils",
+      "version": "0.5.0",
+      "purl": "pkg:pypi/logging-utils@0.5.0",
+      "description": "Internal structured logger",
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ]
+    }
+  ]
+}

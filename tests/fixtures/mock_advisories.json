@@ -1,0 +1,24 @@
+[
+  {
+    "id": "CVE-2024-99001",
+    "purl": "pkg:pypi/fast-crypto@1.2.0",
+    "summary": "Improper key verification leading to plaintext recovery",
+    "severity": "CRITICAL",
+    "affected_symbols": [
+      "insecure_des_decrypt",
+      "fast_crypto.insecure_des_decrypt"
+    ],
+    "fixed_version": "1.2.1"
+  },
+  {
+    "id": "CVE-2024-99002",
+    "purl": "pkg:pypi/jwt-auth-helper@2.4.1",
+    "summary": "Alg-none signature bypass in token verification",
+    "severity": "HIGH",
+    "affected_symbols": [
+      "verify_token_weak",
+      "jwt_auth_helper.verify_token_weak"
+    ],
+    "fixed_version": "2.4.2"
+  }
+]
