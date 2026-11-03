@@ -53,20 +53,22 @@
 * **Tüzel Kişilik:** Dijifabrik Reklam ve Bilişim Hizmetleri (Sermaye Şirketi KOBİ).
 * **Hazırlanan Belge:** [`TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md) (AGY101 formatında; SOTA matrisi, İP1-İP5 iş paketleri, risk analizi, 12 aylık bütçe tablosu eksiksiz tamamlandı).
 
-### D. Sovereign Tech Fund (STF) General Investment (€70.000 Hibe) - [BAŞVURU SÜRECİNDE]
-* **Portal:** `https://apply.sovereign.tech` (Chrome'da açık)
-* **Kapsam:** EdgeGuard-AI açık kaynak güvenli çalışma zamanı çekirdek geliştirme.
-* **Bütçe:** **70.000 €** (%100 Hissesiz Gotürü Bedel / 1.000 saat × 70 €).
-* **Başvuru Tipi:** Natural Person (Bireysel Maintainer / Abdullah TAY).
-* **Hazırlanan Belge:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md) (Good Grants resmi formunun 23 sorusu eksiksiz yanıtlandı).
-* **Durum:** E-posta girildi, `abdullahtay@gmail.com` adresine gelen 6 haneli doğrulama kodu bekleniyor.
+### D. Sovereign Tech Fund (STF) General Investment (GÖNDERİLDİ & TAMAMLANDI)
+* **Durum:** ✅ **OFFICIALLY SUBMITTED & COMPLETED** (3 Kasım 2026, 10:11 TSİ)
+* **Resmi Başvuru Referansı:** `WvaxMJoR`
+* **Onay Ekranı:** `https://apply.sovereign.tech/entry/entrant/complete/WvaxMJoR` ("Thanks for submitting your application")
+* **Bütçe:** **70.000 €** (%100 Hissesiz / Götürü Hibe, 1.000 Mühendislik Saati × 70 €/saat, 10 Ay).
+* **Başvuru Sahibi:** Abdullah TAY (Natural Person / Open Source Maintainer).
+* **Proje:** EdgeGuard-AI: Verifiable Zero-Trust Edge AI Runtime & Core IoT Infrastructure
+* **Hazırlanan Belge:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md) (Good Grants formundaki 4 sekmenin tüm soruları eksiksiz iletildi).
 
-### E. Open Technology Fund (OTF) Internet Freedom Fund ($35.000 Hibe) - [KONSEPT NOTU HAZIR]
-* **Portal:** `https://apply.opentech.fund` (Chrome'da açıldı)
+### E. Open Technology Fund (OTF) Internet Freedom Fund ($35.000 Hibe) - [GİRİŞ BAĞLANTISI BEKLENİYOR]
+* **Portal:** `https://apply.opentech.fund` (Chrome'da açık)
 * **Kapsam:** Merkeziyetsiz IoT ve bağımsız sensör ağlarında verinin sansür ve manipülasyona karşı yerinde doğrulanması.
 * **Bütçe:** **35.000 $** (Aşama 1 Konsept Notu).
 * **Başvuru Tipi:** Individual Technologist (Bireysel / Abdullah TAY).
 * **Hazırlanan Belge:** [`OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md).
+* **Durum:** E-posta girildi; Hypha giriş/aktivasyon linki `abdullahtay@gmail.com` gelen kutusuna gönderildi. Link tıklandığı an form enjekte edilecek.
 
 ### D. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
 * **Kapsam:** Kritik altyapılarda OT/IoT siber güvenlik dayanıklılığı, test ve validasyon.
