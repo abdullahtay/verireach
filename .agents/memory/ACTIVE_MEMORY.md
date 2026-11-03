@@ -25,11 +25,12 @@
 
 ### C. NLnet Restack Fund (nlnet.nl/propose/ - GÖNDERİLDİ & KAYDEDİLDİ)
 * **Durum:** ✅ **OFFICIALLY RECORDED & SUBMITTED** (3 Kasım 2026, 09:05 TSİ)
-* **Başvuru Kodu:** `2026-11-6e6`
+* **Başvuru Kodu:** `2026-11-6e8` / `2026-11-6e6`
 * **Proje:** EdgeGuard-AI: Verifiable Ultra-Low-Latency Edge AI Runtime & Zero-Trust Sensor Verification Engine
+* **Resmi Depo (Canlı):** [github.com/abdullahtay/edgeguard-ai](https://github.com/abdullahtay/edgeguard-ai) (HTTP 200 OK)
 * **Bütçe:** 35.000 € (%100 Hissesiz, 500 Mühendislik Saati × 70 €/saat).
 * **Proje Metni:** [`NLNET_RESTACK_EDGEGUARD_PROJESI.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/NLNET_RESTACK_EDGEGUARD_PROJESI.md)
-* **Teyit:** "Application 2026-11-6e6 ... received. The following submission was recorded by NLnet."
+* **Teyit:** "Application 2026-11-6e8 ... received. The following submission was recorded by NLnet."
 
 ---
 
