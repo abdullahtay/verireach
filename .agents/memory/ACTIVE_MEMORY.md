@@ -73,7 +73,26 @@
 * **Hazırlanan Belge:** [`OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md)
 * **Otomasyon Scripti:** [`fill_otf_form.py`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/fill_otf_form.py) (TinyMCE iframe enjeksiyonu, 80 karakter başlık optimizasyonu ve 8 zengin metin alanı başarıyla iletildi).
 
-### F. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
+### F. Avusturya Bireysel / Ön-Kuruluş (Pre-Incorporation) Deep-Tech Hibe & Kuluçka Başvuruları (4/4 GÖNDERİLDİ & TAMAMLANDI)
+* **Hazırlanan Belgeler:** [`AUSTRIA_GRANTS_AND_INCUBATORS_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/AUSTRIA_GRANTS_AND_INCUBATORS_PROPOSAL.md) & [`EdgeGuard_AI_INiTS_SCALEup_Pitch_Deck.pdf`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/EdgeGuard_AI_INiTS_SCALEup_Pitch_Deck.pdf) & [`submit_austria_grants.py`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/submit_austria_grants.py)
+1. **INiTS Vienna — SCALEup Inkubator & STARTKapital (AplusB High-Tech Incubator):**
+   * **Durum:** ✅ **OFFICIALLY SUBMITTED** (`status=2`, `2026-11-03T08:00:48Z`)
+   * **Referans ID:** `#42032` (`ApplicationDefinition #997`, Forminator Ön Kayıt `#87`)
+   * **Takip URL:** `https://app.inits.at/application-definition/997/application/42032`
+   * **Fonlama:** **100.000 €'ya kadar STARTKapital** + 100 Günlük Startup Camp + Akredite AplusB kanalı üzerinden **aws Preseed Deep Tech (267.000 €'ya kadar %100 hibe)** erişimi.
+2. **Science Park Graz — ESA BIC Austria (Avrupa Uzay Ajansı Kuluçka Merkezi):**
+   * **Durum:** ✅ **OFFICIALLY SUBMITTED** (`HTTP 200 OK`, `"type": "completed"`)
+   * **Submission ID:** `01M6G6002ZG45NPV7CC3D5VGN2` | **Response ID:** `xrsp7mudaqtrxkqxrsdxeuuwh8ahahky`
+   * **Fonlama:** **50.000 € Hissesiz Nakit Ar-Ge Hibesi (Zero-Equity Grant)** + 18-24 Ay Kuluçka Desteği.
+3. **Science Park Graz — AplusB High-Tech Incubation & Start-up Idea Competition:**
+   * **Durum:** ✅ **OFFICIALLY SUBMITTED** (`HTTP 200 OK`, `"type": "completed"`)
+   * **Submission ID:** `01M6G5ZW6181BXZHFK9Q4GDXDV` | **Response ID:** `uwj34b1gtmm4467vyd3od7puwj397l6w`
+   * **Fonlama:** **12.000 € Idea Competition Ödül Havuzu** + 18 Ay AplusB Kuluçka + **aws Preseed (267.000 €)** akreditasyonu.
+4. **weXelerate Vienna — 10X Startup Club & Corporate AI Ecosystem:**
+   * **Durum:** ✅ **OFFICIALLY SUBMITTED** (`HTTP 200 OK`, `"ok": true`)
+   * **Notion Lead ID:** `40d8e130-c0a9-81e6-b805-cec58c3fe1c7`
+
+### G. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
 * **Kapsam:** Kritik altyapılarda OT/IoT siber güvenlik dayanıklılığı, test ve validasyon.
 * **Bütçe:** 60.000 € (%50 eş finansman).
 * **Son Başvuru:** 6 Ocak 2027.

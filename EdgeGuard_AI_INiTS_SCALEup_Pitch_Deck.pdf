@@ -1,0 +1,185 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 591 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 1: EDGEGUARD-AI - VERIFIABLE EDGE AI & ZERO-TRUST TELEMETRY) Tj
+/F1 11 Tf
+0 -30 Td
+(Startup Title: EdgeGuard-AI) Tj
+0 -22 Td
+(Founder & Lead Systems Architect: Abdullah TAY \(abdullahtay@gmail.com | +90 532 206 61 68\)) Tj
+0 -22 Td
+(Repository: https://github.com/abdullahtay/edgeguard-ai \(MIT Open-Source\)) Tj
+0 -22 Td
+(Target Program: INiTS SCALEup Incubator & STARTKapital / aws Preseed Deep Tech \(Vienna, Austria\)) Tj
+0 -22 Td
+(Key Technologies: Artificial Intelligence & Data Innovation | Chips, Electronic Components & Embedded Systems) Tj
+0 -22 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 772 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 2: THE PROBLEM - UNVERIFIED EDGE TELEMETRY & EU AI ACT COMPLIANCE) Tj
+/F1 11 Tf
+0 -30 Td
+(1. Critical infrastructure, industrial IoT \(IIoT\), and satellite/GNSS edge nodes suffer from telemetry spoofing,) Tj
+0 -22 Td
+(   adversarial sensor injection, and silent model drift.) Tj
+0 -22 Td
+(2. Existing cloud-centric security pipelines introduce 50-200ms network latency and violate strict data-sovereignty) Tj
+0 -22 Td
+(   and bandwidth constraints on embedded ARM64/RISC-V microcontrollers.) Tj
+0 -22 Td
+(3. The EU AI Act \(Article 15\) and NIS2 Directive legally mandate verifiable robustness, cybersecurity, and) Tj
+0 -22 Td
+(   tamper-evident audit logs for high-risk AI systems deployed in European industry and mobility.) Tj
+0 -22 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 762 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 3: THE SOLUTION & CORE TECHNOLOGY (TRL 4-5 PROTOTYPE)) Tj
+/F1 11 Tf
+0 -30 Td
+(EdgeGuard-AI is an ultra-low-latency \(<50 microseconds\) embedded Rust/C++ runtime and zero-trust cryptographic) Tj
+0 -22 Td
+(verification engine for edge AI and industrial/satellite IoT sensors:) Tj
+0 -22 Td
+(- Sub-50us Streaming Z-Score & Isolation Forest Anomaly Detection directly on raw sensor frames.) Tj
+0 -22 Td
+(- Zero-Heap Deterministic Ring-Buffer Execution \(<256 KB RAM footprint\) on ARM Cortex-M/A and RISC-V.) Tj
+0 -22 Td
+(- Hardware-Anchored Ed25519 + SHA-256 Merkle Audit Envelopes proving sensor integrity from chip to cloud.) Tj
+0 -22 Td
+(- Automated EU AI Act Article 15 & IEEE P3195 compliance telemetry generation.) Tj
+0 -22 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 574 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 4: UNIQUE SELLING PROPOSITION (USP) & COMPETITIVE ADVANTAGE) Tj
+/F1 11 Tf
+0 -30 Td
+(- 100x Lower Latency: <50us per frame vs. 5-50ms for Python/container-based edge monitors.) Tj
+0 -22 Td
+(- Cryptographic Provenance: Combines real-time statistical anomaly scoring with zero-trust Ed25519 signing.) Tj
+0 -22 Td
+(- Hardware Agnostic: Runs bare-metal or Linux on STM32, NXP i.MX, NVIDIA Jetson, and RISC-V.) Tj
+0 -22 Td
+(- Open-Core Defensibility: MIT-licensed core verification spec + commercial enterprise fleet attestation SaaS.) Tj
+0 -22 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 709 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 5: MARKET OPPORTUNITY & BUSINESS MODEL (B2B DEEP TECH)) Tj
+/F1 11 Tf
+0 -30 Td
+(- TAM: EUR 18.4B Global Edge AI & Industrial Cybersecurity Market \(24.6% CAGR through 2030\).) Tj
+0 -22 Td
+(- SAM: EUR 3.2B DACH & European Industrial IoT, Smart Grid, Railway/Mobility & Satellite Telemetry Security.) Tj
+0 -22 Td
+(- SOM \(36 Months from Vienna HQ\): EUR 15M ARR across 120 European industrial & critical infrastructure customers.) Tj
+0 -22 Td
+(- Business Model: Open-Core + B2B Per-Node Annual Licensing \(EUR 12-45/node/year\) + Enterprise Compliance) Tj
+0 -22 Td
+(  Control Plane & EU AI Act Audit Certification Dashboard \(EUR 25,000-75,000/year per enterprise\).) Tj
+0 -22 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 719 >>
+stream
+BT
+/F1 14 Tf
+50 750 Td
+(SLIDE 6: TRACTION, VIENNA INCORPORATION & INiTS SCALEUP ROADMAP) Tj
+/F1 11 Tf
+0 -30 Td
+(- Current Traction: Working open-source prototype \(TRL 5\) at github.com/abdullahtay/edgeguard-ai with) Tj
+0 -22 Td
+(  automated CI benchmarks demonstrating 38us median latency and zero-trust Merkle verification.) Tj
+0 -22 Td
+(- Vienna Incorporation Plan: Incorporating EdgeGuard AI GmbH in Vienna during the INiTS 100-Day Startup Camp.) Tj
+0 -22 Td
+(- Use of INiTS STARTKapital \(EUR 100k\) & aws Preseed \(EUR 200k+\): Hardware-in-the-loop \(HIL\) certification) Tj
+0 -22 Td
+(  with Austrian industrial partners \(Siemens Mobility Austria, TTTech, Infineon Austria\) & first 5 B2B pilots.) Tj
+0 -22 Td
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000148 00000 n 
+0000000218 00000 n 
+0000000860 00000 n 
+0000000986 00000 n 
+0000001809 00000 n 
+0000001935 00000 n 
+0000002748 00000 n 
+0000002874 00000 n 
+0000003500 00000 n 
+0000003628 00000 n 
+0000004389 00000 n 
+0000004517 00000 n 
+0000005288 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+5416
+%%EOF
