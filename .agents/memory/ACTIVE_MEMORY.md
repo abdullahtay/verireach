@@ -53,13 +53,16 @@
 * **Tüzel Kişilik:** Dijifabrik Reklam ve Bilişim Hizmetleri (Sermaye Şirketi KOBİ).
 * **Hazırlanan Belge:** [`TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md) (AGY101 formatında; SOTA matrisi, İP1-İP5 iş paketleri, risk analizi, 12 aylık bütçe tablosu eksiksiz tamamlandı).
 
-### C. StandICT.eu 2029 (Open Call 4 Fellowship - 100% Bireysel Hibe) - [PROJE DOSYASI HAZIR]
+### C. StandICT.eu 2029 (Open Call 4 Fellowship - 100% Bireysel Hibe) - [HESAP AKTİF & PROJE HAZIR]
 * **Çağrı Künyesi:** Horizon Europe GA No. 101069694 (European ICT Standardisation).
 * **Bütçe:** **10.000 €** (%100 Geri Ödemesiz / Lump-sum Fellowship).
 * **Başvuru Tipi:** **Bireysel (Natural Person / ICT Specialist)**. Şirket zorunluluğu yok, cepten 1 Euro bile harcama istenmez.
-* **Son Başvuru:** Aralık 2026 (Open Call 4 - Ekim-Aralık 2026 açık).
+* **Portal Hesabı:** ✅ **AKTİF & DOĞRULANDI**
+  * `standict.eu` Kullanıcı ID: 5684 (`Abdullah TAY`)
+  * `grants.standict.eu` (Trust-Grants Platform) Applicant ID: 592 (`Abdullah TAY` / Role: `applicant`)
+* **Takvim:** Open Call 4 (Ekim – Aralık 2026, 60 günlük pencere). Open Call 3 (2 Ekim) kapanmış olup, platformda OC4'ün başvuruya açılması bekleniyor.
 * **Hedef Konu:** CEN-CENELEC JTC 21, W3C Web of Things ve ETSI SAI çalışma gruplarına EU AI Act Madde 15 kapsamında Edge AI IoT sensör doğrulama standartları katkısı.
-* **Hazırlanan Belge:** [`STANDICT_2029_FELLOWSHIP_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/STANDICT_2029_FELLOWSHIP_PROPOSAL.md).
+* **Hazırlanan Belge:** [`STANDICT_2029_FELLOWSHIP_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/STANDICT_2029_FELLOWSHIP_PROPOSAL.md). Platform formu açtığı anda tek tıkla enjekte edilecek.
 
 ### D. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
 * **Kapsam:** Kritik altyapılarda OT/IoT siber güvenlik dayanıklılığı, test ve validasyon.
