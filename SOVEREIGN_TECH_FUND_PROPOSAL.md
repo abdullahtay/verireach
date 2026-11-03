@@ -3,6 +3,7 @@
 
 **Portal:** https://apply.sovereign.tech  
 **Program:** Sovereign Tech Fund General Investment (Open Digital Base Technologies)  
+**New Official Submission Reference (v2.0):** `YxNLJbmO` (`https://apply.sovereign.tech/entry/entrant/complete/YxNLJbmO` — Submitted Nov 3, 2026, 16:18 TRT)  
 **Previous Reference (Triage Rejected):** `WvaxMJoR`  
 **Applicant / Lead Maintainer:** Abdullah TAY (`abdullahtay@gmail.com` | `+90 532 206 61 68`)  
 **Legal Form:** Natural Person / Independent Open Source Maintainer (or Dijifabrik SME)  

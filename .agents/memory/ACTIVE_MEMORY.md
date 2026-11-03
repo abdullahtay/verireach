@@ -53,7 +53,9 @@
 * **Tüzel Kişilik:** Dijifabrik Reklam ve Bilişim Hizmetleri (Sermaye Şirketi KOBİ).
 * **Hazırlanan Belge:** [`TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md) (AGY101 formatında; SOTA matrisi, İP1-İP5 iş paketleri, risk analizi, 12 aylık bütçe tablosu eksiksiz tamamlandı).
 
-### D. Sovereign Tech Fund (STF) General Investment — [KRİTER UYUMLU v2.0 REVİZYONU HAZIR]
+### D. Sovereign Tech Fund (STF) General Investment — [v2.0 GÖNDERİLDİ & TAMAMLANDI]
+* **Durum:** ✅ **OFFICIALLY SUBMITTED & COMPLETED (v2.0)** (3 Kasım 2026, 16:18 TSİ)
+* **Yeni Resmi Başvuru Referansı:** **`YxNLJbmO`** (`https://apply.sovereign.tech/entry/entrant/complete/YxNLJbmO`)
 * **Önceki Başvuru Referansı:** `WvaxMJoR` (Otomatik/Ön İnceleme Reddi — `https://www.sovereigntechfund.de/programs/applications#criteria`)
 * **Tespit Edilen Kök Nedenler ve Giderilen Sürtünmeler (Frictions):**
   1. **Prototip Yasağı İhlali (*"We do not finance the development of prototypes"*):** Eski başvuru metninde `"prototyped"` / `"working prototype"` ve `edgeguard/__init__.py` satır 3'te `"Open-source research prototype designed for Horizon Europe Cloud-Edge-IoT FSTP calls"` ifadesi yer alıyordu. Tamamı temizlendi; `github.com/abdullahtay/edgeguard-ai` deposuna POSIX C99 ABI (`include/edgeguard.h`, `src/edgeguard_cabi.c`), `Makefile`, `SECURITY.md`, `CHANGELOG.md` eklendi ve **`v1.2.0` Production/Stable** etiketiyle canlıya push edildi.
