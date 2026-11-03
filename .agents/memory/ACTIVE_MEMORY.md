@@ -53,14 +53,15 @@
 * **Tüzel Kişilik:** Dijifabrik Reklam ve Bilişim Hizmetleri (Sermaye Şirketi KOBİ).
 * **Hazırlanan Belge:** [`TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/TUBITAK_1507_EDGEGUARD_AI_PROJE_ONERISI.md) (AGY101 formatında; SOTA matrisi, İP1-İP5 iş paketleri, risk analizi, 12 aylık bütçe tablosu eksiksiz tamamlandı).
 
-### D. Sovereign Tech Fund (STF) General Investment (GÖNDERİLDİ & TAMAMLANDI)
-* **Durum:** ✅ **OFFICIALLY SUBMITTED & COMPLETED** (3 Kasım 2026, 10:11 TSİ)
-* **Resmi Başvuru Referansı:** `WvaxMJoR`
-* **Onay Ekranı:** `https://apply.sovereign.tech/entry/entrant/complete/WvaxMJoR` ("Thanks for submitting your application")
-* **Bütçe:** **70.000 €** (%100 Hissesiz / Götürü Hibe, 1.000 Mühendislik Saati × 70 €/saat, 10 Ay).
-* **Başvuru Sahibi:** Abdullah TAY (Natural Person / Open Source Maintainer).
-* **Proje:** EdgeGuard-AI: Verifiable Zero-Trust Edge AI Runtime & Core IoT Infrastructure
-* **Hazırlanan Belge:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md)
+### D. Sovereign Tech Fund (STF) General Investment — [KRİTER UYUMLU v2.0 REVİZYONU HAZIR]
+* **Önceki Başvuru Referansı:** `WvaxMJoR` (Otomatik/Ön İnceleme Reddi — `https://www.sovereigntechfund.de/programs/applications#criteria`)
+* **Tespit Edilen Kök Nedenler ve Giderilen Sürtünmeler (Frictions):**
+  1. **Prototip Yasağı İhlali (*"We do not finance the development of prototypes"*):** Eski başvuru metninde `"prototyped"` / `"working prototype"` ve `edgeguard/__init__.py` satır 3'te `"Open-source research prototype designed for Horizon Europe Cloud-Edge-IoT FSTP calls"` ifadesi yer alıyordu. Tamamı temizlendi; `github.com/abdullahtay/edgeguard-ai` deposuna POSIX C99 ABI (`include/edgeguard.h`, `src/edgeguard_cabi.c`), `Makefile`, `SECURITY.md`, `CHANGELOG.md` eklendi ve **`v1.2.0` Production/Stable** etiketiyle canlıya push edildi.
+  2. **Open Digital Base Technology Konumlandırması:** Dikey "AI Runtime" söylemi yerine, C-ABI (`libedgeguard.so`) ve Python standart kütüphanesi tabanlı **temel sistem kütüphanesi, POSIX IPC telemetri protokolü ve kriptografik doğrulama katmanı (`libedgeguard`)** olarak konumlandırıldı.
+  3. **Prevalence (Yaygınlık) Kriteri (`AqrdovEP-Entries`):** *"is designed as..."* (gelecek zaman) yerine `VeriReach` (OpenVEX/CycloneDX), `Eclipse Mosquitto` (MQTT), `Prometheus`/`OpenTelemetry` ve `EdgeX Foundry`/`Home Assistant` aktif entegrasyonları şimdiki zamanla belgelendi.
+  4. **Vulnerability (Yapısal Kırılganlık) Kriteri (`gezAWGnL-Entries` & `ZpnnYgqy-Entries`):** **Bus Factor = 1** (tek gönüllü maintainer riski), €0 dış fonlama, C-ABI bellek güvenliği (`ASan`/`UBSan`/`AFL++`) ve çapraz-libc (`glibc`/`musl`) bakım borcu merkeze alındı.
+* **Güncel Bütçe:** **63.000 €** (%100 Hissesiz, 900 Mühendislik Saati × 70 €/saat, 9 Ay).
+* **Güncellenen Belgeler:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md) & [`fill_stf_form.py`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/fill_stf_form.py)
 
 ### E. Open Technology Fund (OTF) Internet Freedom Fund (GÖNDERİLDİ & TAMAMLANDI)
 * **Durum:** ✅ **OFFICIALLY SUBMITTED & RECORDED** (3 Kasım 2026, 10:26 TSİ)

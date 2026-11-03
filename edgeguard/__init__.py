@@ -1,9 +1,9 @@
 """
-EdgeGuard-AI: Verifiable Low-Latency Edge AI Runtime & Zero-Trust Anomaly Verification.
-Open-source research prototype designed for Horizon Europe Cloud-Edge-IoT FSTP calls.
+libedgeguard (EdgeGuard-AI): Zero-Dependency C-ABI & Python Telemetry Verification,
+Binary Quantization, POSIX IPC Protocol & Cryptographic Attestation Library.
 """
 
-__version__ = "0.1.0"
+__version__ = "1.2.0"
 __author__ = "Abdullah TAY"
 __license__ = "Apache-2.0"
 
