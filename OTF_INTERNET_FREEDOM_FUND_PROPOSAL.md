@@ -5,7 +5,7 @@
 **Program:** Internet Freedom Fund (Rolling Application)  
 **Primary Applicant:** Abdullah TAY (`abdullahtay@gmail.com` | `+90 532 206 61 68`)  
 **Applicant Type:** Individual Software Engineer / Open Source Technologist  
-**Project Name:** EdgeGuard-AI: Verifiable Zero-Trust Telemetry & Tamper-Resistant Edge Sensor Network Runtime  
+**Project Name:** EdgeGuard-AI: Verifiable Zero-Trust Telemetry & Edge Sensor Network Runtime  
 **Project Repository:** https://github.com/abdullahtay/edgeguard-ai  
 **Requested Amount:** **$35,000 USD**  
 **Project Duration:** 6 Months  

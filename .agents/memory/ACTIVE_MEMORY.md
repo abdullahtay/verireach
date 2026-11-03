@@ -60,17 +60,20 @@
 * **Bütçe:** **70.000 €** (%100 Hissesiz / Götürü Hibe, 1.000 Mühendislik Saati × 70 €/saat, 10 Ay).
 * **Başvuru Sahibi:** Abdullah TAY (Natural Person / Open Source Maintainer).
 * **Proje:** EdgeGuard-AI: Verifiable Zero-Trust Edge AI Runtime & Core IoT Infrastructure
-* **Hazırlanan Belge:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md) (Good Grants formundaki 4 sekmenin tüm soruları eksiksiz iletildi).
+* **Hazırlanan Belge:** [`SOVEREIGN_TECH_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/SOVEREIGN_TECH_FUND_PROPOSAL.md)
 
-### E. Open Technology Fund (OTF) Internet Freedom Fund ($35.000 Hibe) - [GİRİŞ BAĞLANTISI BEKLENİYOR]
-* **Portal:** `https://apply.opentech.fund` (Chrome'da açık)
-* **Kapsam:** Merkeziyetsiz IoT ve bağımsız sensör ağlarında verinin sansür ve manipülasyona karşı yerinde doğrulanması.
-* **Bütçe:** **35.000 $** (Aşama 1 Konsept Notu).
-* **Başvuru Tipi:** Individual Technologist (Bireysel / Abdullah TAY).
-* **Hazırlanan Belge:** [`OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md).
-* **Durum:** E-posta girildi; Hypha giriş/aktivasyon linki `abdullahtay@gmail.com` gelen kutusuna gönderildi. Link tıklandığı an form enjekte edilecek.
+### E. Open Technology Fund (OTF) Internet Freedom Fund (GÖNDERİLDİ & TAMAMLANDI)
+* **Durum:** ✅ **OFFICIALLY SUBMITTED & RECORDED** (3 Kasım 2026, 10:26 TSİ)
+* **Resmi Başvuru Referansı:** `#24182`
+* **Takip Ekranı:** `https://apply.opentech.fund/apply/submissions/24182/` (Status: "Concept Note Received" / Hypha Portal)
+* **Bütçe:** **35.000 $** (Aşama 1 Konsept Notu, %100 Hissesiz Hibe).
+* **Başvuru Tipi:** Individual Software Engineer / Open Source Technologist (Abdullah TAY).
+* **Proje Adı:** EdgeGuard-AI: Verifiable Zero-Trust Telemetry & Edge Sensor Network Runtime
+* **Açık Kaynak Deposu:** [https://github.com/abdullahtay/edgeguard-ai](https://github.com/abdullahtay/edgeguard-ai)
+* **Hazırlanan Belge:** [`OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/OTF_INTERNET_FREEDOM_FUND_PROPOSAL.md)
+* **Otomasyon Scripti:** [`fill_otf_form.py`](file:///Users/tugsahbilge/001UYGULAMALAR/hibe/fill_otf_form.py) (TinyMCE iframe enjeksiyonu, 80 karakter başlık optimizasyonu ve 8 zengin metin alanı başarıyla iletildi).
 
-### D. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
+### F. CIPHER Open Call #1 (Horizon Europe / Digital Europe Cascade Funding)
 * **Kapsam:** Kritik altyapılarda OT/IoT siber güvenlik dayanıklılığı, test ve validasyon.
 * **Bütçe:** 60.000 € (%50 eş finansman).
 * **Son Başvuru:** 6 Ocak 2027.
